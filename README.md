@@ -8,9 +8,7 @@
 <a href="https://github.com/Anonymous-Zpt/MetaInfo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Anonymous-Zpt/MetaInfo?label=Watchers&color=blue&style=flat-square"></a>
 </div>
 MetaInfo es una herramienta que nos permite extraer los metadatos de cualquier tipo de archivo:
-
 - EXIF
-
 - GPS
 
 - IPTC
