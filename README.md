@@ -7,22 +7,4 @@
 <a href="https://github.com/Anonymous-Zpt/MetaInfo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Anonymous-Zpt/MetaInfo?color=red&style=flat-square"></a>
 <a href="https://github.com/Anonymous-Zpt/MetaInfo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Anonymous-Zpt/MetaInfo?label=Watchers&color=blue&style=flat-square"></a>
 </div>
-MetaInfo es una herramienta que nos permite extraer los metadatos de cualquier tipo de archivo:
-- EXIF
-- GPS
-
-- IPTC
-
-- XMP
-
-- JFIF
-
-- GeoTIFF
-
-- Perfil ICC
-
-- Photoshop IRB
-
-- FlashPix
-
-- AFCP e ID3. 
+MetaInfo es una herramienta que nos permite extraer los metadatos de cualquier tipo de archivo apk, jpg, png, txt, mp3, mp4, md, zip, rar, doc, .psd, cdr , eps o cualquier otros archivos. 
