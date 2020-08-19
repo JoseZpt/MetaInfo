@@ -11,6 +11,7 @@ MetaInfo es una herramienta que nos permite extraer los metadatos de cualquier t
 
 # Instalación 
 
+* ` apt update && apt -y upgrade` 
 * ` pkg install -y git `
 * ` pkg install -y exiftool `
 * ` git clone https://github.com/Anonymous-Zpt/MetaInfo `
