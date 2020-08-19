@@ -7,4 +7,15 @@
 <a href="https://github.com/Anonymous-Zpt/MetaInfo/network/members"><img title="Forks" src="https://img.shields.io/github/forks/Anonymous-Zpt/MetaInfo?color=red&style=flat-square"></a>
 <a href="https://github.com/Anonymous-Zpt/MetaInfo/watchers"><img title="Watching" src="https://img.shields.io/github/watchers/Anonymous-Zpt/MetaInfo?label=Watchers&color=blue&style=flat-square"></a>
 </div>
-MetaInfo es una herramienta que nos permite extraer los metadatos de cualquier tipo de archivo apk, jpg, png, txt, mp3, mp4, md, zip, rar, doc, .psd, cdr , eps o cualquier otros archivos. 
+MetaInfo es una herramienta que nos permite extraer los metadatos de cualquier tipo de archivo apk, jpg, png, txt, mp3, mp4, md, zip, rar, doc, .psd, cdr , eps entre otros. 
+
+# Instalación 
+
+* ` pkg install -y git `
+* ` pkg install -y exiftool `
+* ` git clone https://github.com/Anonymous-Zpt/MetaInfo `
+* ` cd MetaInfo `
+* ` bash install.sh `
+* ` ./Metainfo `
+
+Listo ya solo digitamos la ubicación del archivo utilizado la ruta y el nombre del archivo completo. 
