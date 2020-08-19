@@ -20,4 +20,4 @@ MetaInfo es una herramienta que nos permite extraer los metadatos de cualquier t
 * ` bash install.sh `
 * ` ./Metainfo `
 
-Listo ya solo digitamos la ubicación del archivo utilizado la ruta y el nombre del archivo completo. 
+Listo ya solo digitamos la ubicación del archivo utilizado la ruta y el nombre completo del archivo. 
